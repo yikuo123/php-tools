@@ -1,7 +1,7 @@
 # Composer-PHP-Tools
 
 ## Apcu
-http://https://github.com/krakjoe/apcu
+https://github.com/krakjoe/apcu
  
 ## PHP-FPM status
 
