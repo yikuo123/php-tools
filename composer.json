@@ -1,0 +1,10 @@
+{
+  "name": "ikecin/php-tools",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "description": "php-tools",
+  "type": "library",
+  "require": {
+    "php": ">=7.0",
+    "ext-apcu": "*"
+  }
+}
