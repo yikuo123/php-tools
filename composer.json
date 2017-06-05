@@ -1,6 +1,6 @@
 {
   "name": "ikecin/php-tools",
-  "license": "SEE LICENSE IN <LICENSE>",
+  "license": "MIT",
   "description": "php-tools",
   "type": "library",
   "require": {
